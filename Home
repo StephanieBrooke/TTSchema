@@ -1,0 +1,979 @@
+<html>
+  <head>
+    <title>Token Title Group - Title Insurance, Closing, & Escrow Services</title>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+"@graph":
+[
+{
+	"@context": "http://schema.org/",
+	"@type": "FinancialService",
+	"feesAndCommissionsSpecification": "Best Deals On Commercial Title Insurance, Closing, & Escrow Services",
+    "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+    "name": "Commercial Title Insurance, Closing, & Escrow Services - Token Title Group",
+    "address": "2525 Pontiac Lake Rd, Waterford, MI 48328",
+   "isAccessibleForFree": true,
+    "priceRange": "$0 - $50M",
+	"areaServed": "United States",
+	"currenciesAccepted": "USD",
+	"award": "#1 Technology Focused Commercial Title Insurance, Closing & Escrow Services",
+	"awards": "#1 Technology Focused Commercial Title Insurance, Closing & Escrow Services",
+	"telephone": "(248) 671-6237",
+    "logo": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+    "url": "https://www.tokentitlegroup.com/",
+"knowsAbout": "Commercial Title Insurance, Closing & Escrow Services",
+    "Naics": "541191",
+     "naics": "541191",
+  "member": { 
+     "@type": "Organization",
+     "url": "https://www.firstam.com/title/commercial/"
+},
+  "brand": {
+    "@type": "Thing",
+    "name": "Token Title Group - Commercial Title Insurance, Closing, & Escrow Services"
+  },
+  "seeks": {
+    "name": "Commercial Real Estate Closings",
+    "description": "Commercial Title Insurance, Closing, & Escrow Services Provided"
+  },
+  "memberof": {
+      "@type": "Organization",
+    "url": "https://www.alta.org/"
+},
+  "Department": "Commercial Title Insurance, Closing, & Escrow Services" 
+},
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.tokentitlegroup.com/",
+  "numberOfItems": "17",
+  "itemListElement": [{
+"@type": "ListItem",
+"position": 1, 
+ "@id": "#product",
+"additionalType": "http://www.productontology.org/id/Title_insurance",
+  "description": "Commercial Title Insurance",
+  "name": "Providing The Best Commercial Title Insurance Available",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+ "url": "https://www.tokentitlegroup.com/"
+},
+{
+"@type": "ListItem",
+"position": 2, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+"additionalType": "http://www.productontology.org/id/Escrow",
+  "description": "Commercial Escrow Services",
+  "name": "Providing The Best Commercial Escrow Services Available",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 3, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+"additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "Commercial Real Estate Closing Services",
+  "name": "Providing The Best Commercial Real Estate Closing Services Available",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 4, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+  "additionalType": "http://www.productontology.org/id/Closing_(sales)",
+  "description": "Providing The Best Business Closing Services Available",
+  "name": "Commercial Business Closing Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 5, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+  "additionalType": "http://www.productontology.org/id/Title_search",
+  "description": "Providing The Best Title Search Services Available",
+  "name": "Title Search - Real Estate",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 6, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+  "additionalType": "http://www.productontology.org/id/Recording_(real_estate)",
+  "description": "Providing The Best Deed Recording Services Available",
+  "name": "Deed Recording - Real Estate",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 7, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+  "additionalType": "http://www.productontology.org/id/Real_Estate_Settlement_Procedures_Act",
+  "description": "The Best Settlement Services Available",
+  "name": "Settlement Services - Real Estate",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 8, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+  "additionalType": "http://www.productontology.org/id/Title_insurance",
+  "description": "The Best Commercial Title Available",
+  "name": "Commercial Title - Real Estate",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 9, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+  "additionalType": "http://www.productontology.org/id/Escrow",
+  "description": "Best Third Party Escrow Services Available",
+  "name": "Third Party Escrow Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 10, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "Best Settlement Agency Services Available",
+  "name": "Settlement Agency Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 11, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "The Best Real Estate Closing Services Available",
+  "name": "Real Estate Closing Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 12, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "The Best Business Closing Services Available",
+  "name": "Business Closing Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 13, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "The Best Business Sale Closing Services Available",
+  "name": "Business Sale Closing Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 14, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "The Best Remote Real Estate Closing Services Available",
+  "name": "Remote Real Estate Closings",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 15, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "The Best Long Distance Real Estate Closing Services Available",
+  "name": "Long Distance Real Estate Closings",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 16, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "The Best Online Real Estate Closing Services Available",
+  "name": "Online Real Estate Closings",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+},
+{
+"@type": "ListItem",
+"position": 17, 
+ "@id": "#product",
+ "url": "https://www.tokentitlegroup.com/",
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "The Best Virtual Real Estate Closing Services Available",
+  "name": "Virtual Real Estate Closings",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+}
+]
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451217",
+  "Category": "Commercial Title Insurance",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Commercial Title Insurance"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Title_insurance",
+  "description": "The Best Commercial Title Insurance Available",
+  "name": "Commercial Title Insurance",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451218",
+  "Category": "Title Insurance",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Title Insurance"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Title_insurance",
+  "description": "The Best Title Insurance Available",
+  "name": "Title Insurance",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451219",
+  "Category": "Real Estate Title Insurance",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Real Estate Title Insurance"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Title_insurance",
+  "description": "The Best Real Estate Title Insurance Available",
+  "name": "Real Estate Title Insurance",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451220",
+  "Category": "Commercial Title Search",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Commercial Title Search"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Title_search",
+  "description": "The Best Commercial Title Search Available",
+  "name": "Commercial Title Search",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451221",
+  "Category": "Title Search",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Title Search"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Title_search",
+  "description": "The Best Title Search Available",
+  "name": "Title Search",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451222",
+  "Category": "Real Estate Title Search",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Real Estate Title Search"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Title_search",
+  "description": "The Best Real Estate Title Search Available",
+  "name": "Real Estate Title Search",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451223",
+  "Category": "Commercial Deed Recording",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Commercial Deed Recording"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Recording_(real_estate)",
+  "description": "The Best Commercial Deed Recording Available",
+  "name": "Commercial Deed Recording",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451224",
+  "Category": "Deed Recording",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Deed Recording"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Recording_(real_estate)",
+  "description": "The Best Deed Recording Available",
+  "name": "Deed Recording",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451224",
+  "Category": "Real Estate Deed Recording",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Real Estate Deed Recording"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Recording_(real_estate)",
+  "description": "The Best Real Estate Deed Recording Available",
+  "name": "Real Estate Deed Recording",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451225",
+  "Category": "Commercial Settlement Services",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Commercial Settlement Services"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Real_Estate_Settlement_Procedures_Act",
+  "description": "The Best Commercial Settlement Services Available",
+  "name": "Commercial Settlement Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451225",
+  "Category": "Settlement Services",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Settlement Services"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Real_Estate_Settlement_Procedures_Act",
+  "description": "The Best Settlement Services Available",
+  "name": "Settlement Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451226",
+  "Category": "Real Estate Settlement Services",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Real Estate Settlement Services"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Real_Estate_Settlement_Procedures_Act",
+  "description": "The Best Real Estate Settlement Services Available",
+  "name": "Real Estate Settlement Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451225",
+  "Category": "Commercial Escrow Services",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Commercial Escrow Services"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Escrow",
+  "description": "The Best Commercial Escrow Services Available",
+  "name": "Commercial Escrow Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451225",
+  "Category": "Escrow Services",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Escrow Services"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Escrow",
+  "description": "The Best Escrow Services Available",
+  "name": "Escrow Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451231",
+  "Category": "Real Estate Escrow Services",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Real Estate Escrow Services"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Escrow",
+  "description": "The Best Real Estate Escrow Services Available",
+  "name": "Real Estate Escrow Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451232",
+  "Category": "Commercial Closing Services",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Commercial Closing Services"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "The Best Commercial Closing Services Available",
+  "name": "Commercial Closing Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451233",
+  "Category": "Closing Services",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Closing Services"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "The Best Closing Services Available",
+  "name": "Closing Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451233",
+  "Category": "Real Estate Closing Services",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Real Estate Closing Services"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "The Best Real Estate Closing Services Available",
+  "name": "Real Estate Closing Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451234",
+  "Category": "Business Closing Services",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Business Closing Services"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "The Best Business Closing Services Available",
+  "name": "Business  Closing Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451236",
+  "Category": "Business Sale Closing Services",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Business Sale Closing Services"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "The Best Business Sale Closing Services Available",
+  "name": "Business Sale Closing Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451236",
+  "Category": "Remote Real Estate Closing Services",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Remote Real Estate Closing Services"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "The Best Remote Real Estate Closing Services Available",
+  "name": "Remote Real Estate Closing Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "Product",
+  "sku": "7451238",
+  "Category": "Remote Closing Services",
+    "offers": {
+    "@type": "Offer",
+    "url": "https://www.tokentitlegroup.com/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group - Remote Closing Services"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Closing_(real_estate)",
+  "description": "The Best Remote Closing Services Available",
+  "name": "Remote Closing Services",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": "https://www.tokentitlegroup.com/"
+},
+{
+  "@context": "http://schema.org/",
+  "@type": "Service",
+  "serviceType": "Commercial Title Insurance, Closing, & Escrow Services",
+  "broker": {
+    "@type": "LocalBusiness",
+    "name": "Token Title Group – Commercial Title Insurance, Closing, & Escrow Services",
+    "Image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+    "Address": "2525 Pontiac Lake Rd, Waterford MI 48328",
+    "Pricerange": "0 - 30M",
+    "Telephone": "(248) 671-6237"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "USA"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Commercial Title Insurance, Closing, & Escrow Services",
+    "additionalType": "http://www.productontology.org/id/Title_insurance",
+    "image": " https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png", 
+    "itemListElement": [
+      {
+        "@type": "OfferCatalog",
+        "name": "Commercial Title Insurance",
+        "url": " https://www.tokentitlegroup.com/",
+        "additionalType": "http://www.productontology.org/id/Title_Insurance",
+         "image": " https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Real Estate Title Insurance",
+              "additionalType": "http://www.productontology.org/id/Title_insurance"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Title Insurance",
+              "additionalType": "http://www.productontology.org/id/Title_insurance"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Commercial Closing Services",
+              "additionalType": "http://www.productontology.org/id/Closing_(real_estate)"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Closing Services",
+              "additionalType": "http://www.productontology.org/id/Closing_(real_estate)"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Commercial Escrow Services",
+              "additionalType": "http://www.productontology.org/id/Escrow"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Escrow Services",
+              "additionalType": "http://www.productontology.org/id/Escrow"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Real Estate Escrow Services",
+              "additionalType": "http://www.productontology.org/id/Escrow"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Real Estate Closing Services",
+              "additionalType": "http://www.productontology.org/id/Closing_(real_estate)"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "One-time services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Commercial Title Insurance",
+             "additionalType": "http://www.productontology.org/id/Title_insurance"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Commercial Title Insurance",
+              "additionalType": "http://www.productontology.org/id/Title_insurance"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+  "Category": "Commercial Title Insurance",
+  "isRelatedTo": {
+    "@type": "Product",
+    "name": "Title Insurance"
+},
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Title_insurance",
+  "description": "The Best Commercial Title Insurance Available",
+  "name": "Commercial Title Insurance",
+  "image": "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": " https://www.tokentitlegroup.com/"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+  "Category": "Title Insurance",
+  "isRelatedTo": {
+    "@type": "Product",
+    "name": "Title Insurance"
+},
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "0",
+    "priceValidUntil": "2025-12-23",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group"
+    }
+},
+  "additionalType": "http://www.productontology.org/Title_insurance",
+  "description": "The Best Real Estate Title Insurance Available",
+  "name": "Real Estate Title Insurance",
+  "image": " https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png",
+  "url": " https://www.tokentitlegroup.com/"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+             "Category": "Commercial Escrow Services",
+  "isRelatedTo": {
+    "@type": "Product",
+    "name": "Commercial Escrow Services"
+},
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "100-2000",
+    "priceValidUntil": "2025-12-29",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Token Title Group"
+    }
+},
+  "additionalType": "http://www.productontology.org/id/Escrow",
+  "description": "The Best Commercial Escrow Services Available",
+  "name": "Commercial Escrow Services",
+  "image": " https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png ",
+  "url": "https://www.tokentitlegroup.com/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
+]
+}
+</script>
