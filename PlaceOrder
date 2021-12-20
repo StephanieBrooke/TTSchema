@@ -1,0 +1,51 @@
+<html>
+  <head>
+    <title>Order Online - Title Insurance, Closing, & Escrow Services</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Title Insurance, Closing, & Escrow Services",
+      "image": [       "https://assets-global.website-files.com/61ba571236f16645a7bf4348/61ba592d9af3af3a972cf5e0_TKN%20Title%20Logo%20Webclip.png"
+       ],
+      "description": "With our technology driven business, you can easily order title insurance, closing, and escrow services online. Remote closings available for nearly all real estate and business closings. Speciality services available for the cannabis industry.",
+      "sku": "0420595960",
+    "Naics": "541191",
+     "naics": "541191",
+      "brand": {
+        "@type": "Brand",
+        "name": "Token Title Group"
+      },
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Richard Goodman"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "23"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.tokentitlegroup.com/faq/how-much-does-marijuana-title-insurance-cost-who-typically-pays-for-it",
+        "priceCurrency": "USD",
+        "price": "975.00",
+        "priceValidUntil": "2020-11-29",
+        "itemCondition": "https://schema.org/UsedCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
+
