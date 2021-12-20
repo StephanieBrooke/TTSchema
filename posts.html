@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>{{wf {&quot;path&quot;:&quot;name&quot;,&quot;type&quot;:&quot;PlainText&quot;\} }}</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Article headline",
+      "image": [
+        "{{wf {&quot;path&quot;:&quot;featured-image&quot;,&quot;type&quot;:&quot;ImageRef&quot;\} }}"
+       ],
+      "datePublished": "{{wf {&quot;path&quot;:&quot;published-on&quot;,&quot;transformers&quot;:[{&quot;name&quot;:&quot;date&quot;,&quot;arguments&quot;:[&quot;MMM DD, YYYY&quot;]\}],&quot;type&quot;:&quot;Date&quot;\} }}",
+      "dateModified": "{{wf {&quot;path&quot;:&quot;updated-on&quot;,&quot;transformers&quot;:[{&quot;name&quot;:&quot;date&quot;,&quot;arguments&quot;:[&quot;MMM DD, YYYY&quot;]\}],&quot;type&quot;:&quot;Date&quot;\} }}",
+      "author": [{
+          "@type": "Person",
+          "name": "Token Title",
+          "url": "https://www.tokentitlegroup.com/contact"
+         }]
+    }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
