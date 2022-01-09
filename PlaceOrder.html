@@ -2,7 +2,13 @@
   <head>
     <title>Order Online - Title Insurance, Closing, & Escrow Services</title>
     <script type="application/ld+json">
-    {
+
+{
+  "@context": "http://schema.org",
+"@graph":
+[
+
+{
       "@context": "https://schema.org/",
       "@type": "Product",
       "name": "Title Insurance, Closing, & Escrow Services",
@@ -10,8 +16,6 @@
        ],
       "description": "With our technology driven business, you can easily order title insurance, closing, and escrow services online. Remote closings available for nearly all real estate and business closings. Speciality services available for the cannabis industry.",
       "sku": "0420595960",
-    "Naics": "541191",
-     "naics": "541191",
       "brand": {
         "@type": "Brand",
         "name": "Token Title Group"
@@ -41,11 +45,29 @@
         "priceValidUntil": "2020-11-29",
         "itemCondition": "https://schema.org/UsedCondition",
         "availability": "https://schema.org/InStock"
-      }
+}},
+
+{
+  "@context": "https://schema.org",
+  "@type": "BuyAction",
+  "agent": {
+    "@type": "Person",
+    "name": "Real Estate Buyer &/or Seller"
+  },
+  "object": {
+    "@type": "FinancialProduct",
+    "name": "Title Insurance &/or Escrow Services"
+  },
+  "seller": {
+    "@type": "Organization",
+    "name": "Token Title Group"
+  }
     }
+
+]}
+
     </script>
   </head>
   <body>
   </body>
 </html>
-
